@@ -1,11 +1,10 @@
 # Project 1 – Citizen Support Chatbot (Simple Keyword Matcher)
 
-**Portfolio Part b – Simple AI Project**  
-**Author:** [Your Name]  
-**Date:** April 2026  
-**University:** University of Bradford  
+Portfolio Part b – Simple AI Chatbot 
+Author: Aparna Ghimire 
+Date: Jan 2026  
+University: University of Bradford  
 
----
 
 ## What this project does
 
