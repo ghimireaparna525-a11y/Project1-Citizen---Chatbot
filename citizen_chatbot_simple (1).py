@@ -1,8 +1,8 @@
 # ============================================================
 # Citizen Support Chatbot – Simple Keyword Matcher
-# Project 1 of 3 – Portfolio Part b
-# Author: [Your Name]
-# Date: April 2026
+# Project 1
+# Author: Aparna Ghimire
+# Date: jan 2026
 # Description: A simple Python chatbot that matches keywords
 #              in a user's question and returns a helpful
 #              answer about local council services.
